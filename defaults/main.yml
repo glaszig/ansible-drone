@@ -3,6 +3,9 @@ drone_port: 80
 drone_session_expires: '72h'
 drone_session_secret: ~
 
+drone_sslkey: false
+drone_sslcert: false
+
 drone_smtp_port: '25'
 drone_smtp_address: 'drone@drone.io'
 drone_smtp_server: ~
